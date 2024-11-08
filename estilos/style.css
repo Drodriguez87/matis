@@ -59,7 +59,7 @@ header {
 
 /* Menú de navegación */
 nav.menu {
-    position: fixed; /* Fijamos el menú a la parte inferior */
+    position: relative;/* Fijamos el menú a la parte inferior */
     bottom: 0;
     left: 0;
     width: 100%;
